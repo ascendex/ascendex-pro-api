@@ -142,7 +142,7 @@ Name          |  Type     | Required | Value Range    | Description
 
 #### HTTP Request
 
-`POST <account-group>/api/pro/v1/margin/risk`
+`GET <account-group>/api/pro/v1/margin/risk`
 
 #### Signature
 
